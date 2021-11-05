@@ -11,4 +11,4 @@ Write `"Hello World"` in as many formats as humanly Possible!
 - Print the string `"Hello World"` and don't add any punctuation.
 - No blank line at end of file plz
 
-## Any contributer are more than welcome to join!
+## Any contributers are more than welcome to join!
